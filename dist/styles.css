@@ -1,0 +1,21 @@
+body {
+  /* display: flex; */
+}
+h1 {
+  text-align: center;
+  width: 100%;
+}
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.w80 {
+  width: 80%;
+  height: 15%;
+}
+input {
+  font: 400 15px Arial;
+}

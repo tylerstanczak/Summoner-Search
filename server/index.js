@@ -10,6 +10,8 @@ const app = express();
 app.use(express.static('dist'));
 app.use(cors());
 
+// kayn.Challenger.list()
+
 app.get('/search/:name', (req, res) => {
   kayn.Summoner.by.name(req.params.name)
     .then(result => {

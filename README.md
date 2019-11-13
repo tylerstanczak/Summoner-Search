@@ -29,7 +29,7 @@ Check the top players
 
 
 ## Future ideas
-
+ - Refactor the search function to get data before rendering the info component
  - Region Toggle (Currently NA only)
  - Champion Information
  - Apply for a permanent API key

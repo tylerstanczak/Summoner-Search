@@ -17,9 +17,13 @@ Alternatively, check the top 300 (Challenger) players in North America! :)
 
 I anticipated having to research the Riot Developer API endpoints, but I didn't realize that the information I needed wouldn't be available from one request alone. Having to chain requests with information received from the past one was a new challenge for me with an unfamiliar API
 
-## Example Use
+## Example Uses
 
-    * What were the user stories /  what was MVP (mention Minimal Viable Product)
+Search for a player!
+![](http://www.giphy.com/gifs/hT79em8l8p61uY6XAY)
+
+Check the top players
+![](http://www.giphy.com/gifs/gkFHzgNoY6hlRznz5c)
 
 
 ## Future ideas

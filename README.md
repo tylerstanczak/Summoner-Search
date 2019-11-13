@@ -20,10 +20,10 @@ I anticipated having to research the Riot Developer API endpoints, but I didn't 
 ## Example Uses
 
 Search for a player!
-![Search](http://www.giphy.com/gifs/dvTuC3Zk9zoWoNt0Ud)
+![Search](https://media.giphy.com/media/dvTuC3Zk9zoWoNt0Ud/giphy.gif)
 
 Check the top players
-![Ladder](http://www.giphy.com/gifs/XejXrMC6NP8R5EiFQu)
+![Ladder](https://media.giphy.com/media/XejXrMC6NP8R5EiFQu/giphy.gif)
 
 
 ## Future ideas

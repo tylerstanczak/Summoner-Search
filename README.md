@@ -21,7 +21,7 @@ I anticipated having to research the Riot Developer API endpoints, but I didn't 
 
 Search for a player!
 
-![Search](https://media.giphy.com/media/dvTuC3Zk9zoWoNt0Ud/giphy.gif)
+![Search](https://media.giphy.com/media/VCmyJcxqHiNGgj1M3l/giphy.gif)
 
 Check the top players
 

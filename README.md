@@ -1,66 +1,31 @@
-## Catchy headline / cool graphic
-
-## Who are the contributors (names should link to their github or portfolio page)
-
 ## Introduction
 
-This project was a brief 1-week sprint where our team tried to complete an MVP for an external user **(Jane Doe)**
-
- - Add any additional content here pertaining to timeline, any personal goals, etc
-
+This app was built with the intention of developing an MVP for League of Legends players to look up their friends. Although it's been done before, I thought it would be cool to try to make another lookup app myself.
 
 ## What does the app do? 
+Type in your or your friend's summoner name, and you'll be able to look at their rank, and win rate.
+Alternatively, check the top 300 (Challenger) players in North America! :)
 
-    * What problem does it solve? Who uses it?
-    * Why was it built?
-    * User Inputs and Outputs
-    * 
-## Tech stack ( you can include logos)
+    
+## Tech stack
 
-## Technical Challenges and research that you anticipated
+   - React
+   - Express(Node.js)
+   - Riot Developer API
 
-    * Why, what was the plan to overcome those challenges?
-    * What did you learn?
-  
-## Challenges that were unexpected
+## Technical Challenges 
 
-    * Why was it a challenge
-    * What did you learn?
-  
-## Video Demo / Screen shot walkthrough of the app 
+I anticipated having to research the Riot Developer API endpoints, but I didn't realize that the information I needed wouldn't be available from one request alone. Having to chain requests with information received from the past one was a new challenge for me with an unfamiliar API
+
+## Example Use
 
     * What were the user stories /  what was MVP (mention Minimal Viable Product)
-  
-## How does the app work?
-
-    * What happens behind the scenes when the user interacts with it? 
-    * OR What are all the place the data travels?  What happens to that data?
-    * Optionally include a diagram
-    * How does the tech stack come together?
-
-## What research was required?
-
-## Workflow and Key lessons from your team - specifically those related to: Agile, CI/CD, testing, working with external stakeholders, ticketing, and user stories.
-
-    * Your git workflow, style guides, commit guides, etc
-    * What did you learn from the process
-    * What were key takeaways from stand ups, code reviews, etc
-    * Writing tests
-    * Link to your trello board, discuss completed tickets
-
-## Any non-MVP tickets (optional)
-
- - Code refactorings
- - Performance Optimizations
- - Additional features
- - etc
-
-## Notes from your Sprint Retro
 
 
+## Future ideas
 
-## What additional features do you plan to add, how do you plan to implement those features?
-
-    * Future refactoring?
-    * Additional dev ops considerations?
-    * UI/UX additions?
+ - Region Toggle (Currently NA only)
+ - Champion Information
+ - Apply for a permanent API key
+ - Player Statistics by Champion 
+    
